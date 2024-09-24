@@ -1,0 +1,14 @@
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.AssemblyInfo.cs
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\sharplab002\sharplab002\bin\Debug\net8.0\sharplab002.exe
+C:\Users\slava\source\repos\sharplab002\sharplab002\bin\Debug\net8.0\sharplab002.deps.json
+C:\Users\slava\source\repos\sharplab002\sharplab002\bin\Debug\net8.0\sharplab002.runtimeconfig.json
+C:\Users\slava\source\repos\sharplab002\sharplab002\bin\Debug\net8.0\sharplab002.dll
+C:\Users\slava\source\repos\sharplab002\sharplab002\bin\Debug\net8.0\sharplab002.pdb
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.dll
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\refint\sharplab002.dll
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.pdb
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\sharplab002.genruntimeconfig.cache
+C:\Users\slava\source\repos\sharplab002\sharplab002\obj\Debug\net8.0\ref\sharplab002.dll
